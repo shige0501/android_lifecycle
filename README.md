@@ -1,0 +1,2 @@
+# android_lifecycle
+Androidのライフサイクル確認用プロジェクト
